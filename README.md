@@ -30,4 +30,4 @@ This dropdown allows users to select an option from a list of choices, shows the
 
 1. Clone this repository:  
 ```bash
-git clone https://github.com/munam-coder/custom-dropdown.git
+[git clone https://github.com/munam-coder/custom-dropdown.git](https://github.com/munam-coder/Custom-Dropdown-.git)
